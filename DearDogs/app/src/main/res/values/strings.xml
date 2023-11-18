@@ -1,0 +1,43 @@
+<resources>
+    <string name="vk_link">https://vk.com/eugen1st</string>
+    <string name="telegram_link">https://vk.com/eugen1st</string>
+    <string name="you_tube_link">https://www.youtube.com/channel/UCKIRqumbV83skuPwuNuYVoA</string>
+    <string name="aboutAppText">MyWeather is an application that will help you to know the weather for the coming days, make a plan based on the weather and keep the memories of the best days on a walk! Share the good weather with your friends and go for a walk!</string>
+    <string name="clicker">"- What the weather like today? - I don't know. But I know that you taped the screen times! "</string>
+    <string name="aboutMe">"Hi, I'm the developer of the MyWeather app! Now I'm just starting to develop Android applications, but perhaps in the future I will achieve greater heights and become a professional).\nIf you want to support, write to me.</string>
+    <string name="SupportAsk">If you want to support, write to me.</string>
+    <string name="clickerEnd"> times!</string>
+    <string name="AboutDevLabel">"ABOUT DEVELOPER"</string>
+    <string name="AboutAppLabel">ABOUT APPLICATION</string>
+
+    <string name="app_name">Dear Dogs</string>
+    <string name="app_about">
+        Dear users, this application is created for those who love dogs.
+        Here you can see information about different breeds, as well as add your pet.</string>
+    <string name="but">Try</string>
+    <string name="version">version 1.0</string>
+    <string name="fact1">t.me/Maria</string>
+    <string name="fact2">vk.com/id202845028</string>
+    <string name="fact3">mariaprikhozhaia</string>
+    <string name="home">Home page</string>
+    <string name="about">About application</string>
+    <string name="account">Account</string>
+
+    <string name="add_dog">Add Dog</string>
+    <string name="edit_dog">Edit Dog</string>
+    <string name="action_message">Написать сообщение</string>
+    <string name="action_friend">В друзья</string>
+    <string name="title_message">Новое сообщение</string>
+    <string name="save_dog_description">Save dog</string>
+    <string name="name_hint">Title</string>
+    <string name="no_dogs">No dogs</string>
+    <string name="memory_image_content_description">Photo of an alien memory</string>
+    <!--<string name="distance_description">Enter distance (light years)</string>
+    <string name="distance_label">Distance from your home planet (light years)</string>-->
+    <string name="memory_label">Enter your memory</string>
+    <string name="reachable_description">Reachable with a lightspeed engine</string>
+    <string name="reachable_but_far_description">Reachable at lightspeed, but you\'ll be a lot older</string>
+    <string name="not_reachable_description">Beyond the reach of your lifespan</string>
+    <string name="error_loading_dogs">An error occurred loading your memories</string>
+    <string name="error_saving_dog">Unable to save your dog, please check you have entered all required details</string>
+</resources>
